@@ -163,5 +163,5 @@ Las tablas principales definidas en `backend/db/db.sql` son:
 
 | Nombre y Apellido      | Legajo  | Rol / Aporte principal | GitHub |
 | ---------------------- | :------: | :--------------------- | :----: |
-| **Quintana, Santiago** | `114723` | Backend y lógica del servidor | [@Quintana](https://github.com/santiagoquintana574-collab) |
+| **federico H. Garabatos** | `114242` | Backend y lógica del servidor | [@Quintana](https://github.com/santiagoquintana574-collab) |
 | **Lo Nigro, Lucas**    | `115601` | Frontend e interfaz de usuario | [@LoNigro](https://github.com/llonigro) |
